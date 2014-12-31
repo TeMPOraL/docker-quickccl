@@ -1,0 +1,8 @@
+#+title: QuickCCL
+
+A Docker script for installing Clozure CL w/ Quicklisp.
+Using ubuntu:trusty.
+
+CCL version: 1.10/linuxx86
+
+Based on https://github.com/davazp/docker-sbcl, https://github.com/davazp/docker-quicksbcl & https://github.com/krrrcks/docker-ccl-swank/.
